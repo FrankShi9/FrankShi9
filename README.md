@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Ivy
 - 🌱 I’m currently learning Monodepth, OpenCV, Halcon
 - 👯 I’m looking to collaborate on Python/ML/Computer Vision projects
-- 💬 Ask me about Matlab, Python, PyTorch
+- 💬 Ask me about Matlab, Python, PyTorch, Pandas, Numpy
 - 📫 How to reach me: 📧yunfan-shi@hotmail.com
 - 🔗 https://www.yunfanshi.com
 
